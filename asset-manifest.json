@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Motivational-Quotes/static/css/main.bdefb46c.chunk.css",
+    "main.js": "/Motivational-Quotes/static/js/main.d0748363.chunk.js",
+    "main.js.map": "/Motivational-Quotes/static/js/main.d0748363.chunk.js.map",
+    "runtime-main.js": "/Motivational-Quotes/static/js/runtime-main.85c3ed3d.js",
+    "runtime-main.js.map": "/Motivational-Quotes/static/js/runtime-main.85c3ed3d.js.map",
+    "static/js/2.de28a026.chunk.js": "/Motivational-Quotes/static/js/2.de28a026.chunk.js",
+    "static/js/2.de28a026.chunk.js.map": "/Motivational-Quotes/static/js/2.de28a026.chunk.js.map",
+    "static/js/3.c755a65f.chunk.js": "/Motivational-Quotes/static/js/3.c755a65f.chunk.js",
+    "static/js/3.c755a65f.chunk.js.map": "/Motivational-Quotes/static/js/3.c755a65f.chunk.js.map",
+    "index.html": "/Motivational-Quotes/index.html",
+    "service-worker.js": "/Motivational-Quotes/service-worker.js",
+    "service-worker.js.map": "/Motivational-Quotes/service-worker.js.map",
+    "static/css/main.bdefb46c.chunk.css.map": "/Motivational-Quotes/static/css/main.bdefb46c.chunk.css.map",
+    "static/js/2.de28a026.chunk.js.LICENSE.txt": "/Motivational-Quotes/static/js/2.de28a026.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c3ed3d.js",
+    "static/js/2.de28a026.chunk.js",
+    "static/css/main.bdefb46c.chunk.css",
+    "static/js/main.d0748363.chunk.js"
+  ]
+}
