@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Motivational-Quotes/static/css/main.bdefb46c.chunk.css",
-    "main.js": "/Motivational-Quotes/static/js/main.d0748363.chunk.js",
-    "main.js.map": "/Motivational-Quotes/static/js/main.d0748363.chunk.js.map",
+    "main.js": "/Motivational-Quotes/static/js/main.3e0e5f79.chunk.js",
+    "main.js.map": "/Motivational-Quotes/static/js/main.3e0e5f79.chunk.js.map",
     "runtime-main.js": "/Motivational-Quotes/static/js/runtime-main.85c3ed3d.js",
     "runtime-main.js.map": "/Motivational-Quotes/static/js/runtime-main.85c3ed3d.js.map",
     "static/js/2.de28a026.chunk.js": "/Motivational-Quotes/static/js/2.de28a026.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.85c3ed3d.js",
     "static/js/2.de28a026.chunk.js",
     "static/css/main.bdefb46c.chunk.css",
-    "static/js/main.d0748363.chunk.js"
+    "static/js/main.3e0e5f79.chunk.js"
   ]
 }
