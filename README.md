@@ -1,6 +1,4 @@
 
-Motivational Quotes Website Made With React
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
